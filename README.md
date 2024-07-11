@@ -2,6 +2,8 @@
 
 Interesting topics on all subjects:
 
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/selvaklnc/topics)
+
 ## List of interesting topics
 * [Magazine launch](https://www.prlog.org/13028884-wikimint-launches-new-online-magazine-for-business-and-resources.html) - Wikimint luanches business resources related magazine.
 * [Secrets of inner piece](https://www.tumblr.com/magazinechronicles/732720366640939008/unlocking-the-secrets-of-mindfulness-a-journey-to?source=share) - Unlocking the Secrets of Mindfulness: A Journey to Inner Peace
