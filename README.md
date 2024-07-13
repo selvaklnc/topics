@@ -2,7 +2,8 @@
 
 Interesting topics on all subjects:
 
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/selvaklnc/topics)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/selvaklnc/topics)  [![Trending Now](https://img.shields.io/badge/View_on_GitHub-Click_here-blue.svg)](https://github.com/trending)
+
 
 ## List of interesting topics
 * [Magazine launch](https://www.prlog.org/13028884-wikimint-launches-new-online-magazine-for-business-and-resources.html) - Wikimint luanches business resources related magazine.
