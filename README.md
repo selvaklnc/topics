@@ -6,6 +6,8 @@ Interesting topics on all subjects:
 
 
 ## List of interesting topics
+* [Selvakumaran Krishnan Strikingly](https://ourmaster.mystrikingly.com/) - Personal profile at Strikingly
+* [ORCID record](https://orcid.org/0009-0000-8447-0285) - Public record of Selvakumaran Krishnan at ORCID
 * [Creative animation collections](https://giphy.com/channel/wikimint) - Wikimint entering to offer gif images for creative developers
 * [Topics](https://selvaklnc.github.io/topics/) - Interesting topics coverage on all subjects
 * [Web development](https://docs.google.com/spreadsheets/d/1JEZEvXD6ffsrAihui59pl5SU86y_zfrPLH8KkYxfzD4/edit?gid=0#gid=0) - Top 5 websites to mastering web development
