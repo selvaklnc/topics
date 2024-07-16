@@ -6,6 +6,10 @@ Interesting topics on all subjects:
 
 
 ## List of interesting topics
+* [Medium profile](https://medium.com/@selvakumarankrishnan/about) of Selvakumaran Krishnan, founder of Wikimint.
+* [Developer group](https://groups.google.com/g/fullstackwebdev) - Join web developer group to get updated daily on full-stack development topics
+* [Online business ideas](https://groups.google.com/g/ourmaster/c/VNygVkcCQLw) to start up an online business matching your skills.
+* [Full-stack developer](https://groups.google.com/g/fullstackwebdev/c/njUAZJvXMQk) group to skill-up programming knowledge.
 * [Ourmaster at Google groups](https://groups.google.com/g/ourmaster) - Discussions about online business ideas
 * [Selvakumaran Krishnan Strikingly](https://ourmaster.mystrikingly.com/) - Personal profile at Strikingly
 * [ORCID record](https://orcid.org/0009-0000-8447-0285) - Public record of Selvakumaran Krishnan at ORCID
