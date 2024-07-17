@@ -23,6 +23,7 @@ Interesting topics on all subjects:
 * [Wordpress Profile](https://profiles.wordpress.org/selvaklnc/) of Selvakumaran Krishnan, a WordPress Developer.
 * [ORCID record](https://orcid.org/0009-0000-8447-0285) - Public record of Selvakumaran Krishnan at ORCID
 * [Medium profile](https://medium.com/@selvakumarankrishnan/about) of Selvakumaran Krishnan, founder of Wikimint.
+* [LibraryThing profile](https://www.librarything.com/profile/selvaklnc) - collection of books by Selvakumaran Krishnan
 
 ## List of articles and posts
 
