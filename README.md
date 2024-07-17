@@ -32,14 +32,9 @@ Interesting topics on all subjects:
 * [Online business ideas](https://groups.google.com/g/ourmaster/c/VNygVkcCQLw) to start up an online business matching your skills.
 * [Full-stack developer](https://groups.google.com/g/fullstackwebdev/c/njUAZJvXMQk) group to skill-up programming knowledge.
 
-## List of comments
-
-
-
 ## List of company profiles
 
 * [Creative animation collections](https://giphy.com/channel/wikimint) - Wikimint entering to offer gif images for creative developers
-
 
 ## List of blogs and websites
 
@@ -47,7 +42,6 @@ Interesting topics on all subjects:
 * [Selvakumaran Krishnan Strikingly](https://ourmaster.mystrikingly.com/) - Personal profile at Strikingly
 * [Ourmaster at Google groups](https://groups.google.com/g/ourmaster) - Discussions about online business ideas
 * [Developer group](https://groups.google.com/g/fullstackwebdev) - Join web developer group to get updated daily on full-stack development topics
-
 
 ## List of important bookmarks
 
