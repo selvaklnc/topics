@@ -18,6 +18,11 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [Flickr contributions](https://www.flickr.com/people/selvakumarank/) by Selvakumaran Krishnan.
+* [Influence profile](https://influence.co/selvaklnc) with all social media strength.
+* [Hashnode developer](https://hashnode.com/@selvakumarankrishnan) profile managing technology stack blogs.
+* [Proven Expert](https://www.provenexpert.com/en-us/selvakumaran-krishnan/) profile with business offers.
+* [Disqus profile of Selvakumaran Krishnan](https://disqus.com/by/selvaklnc/about/) with list of comments.
 * [Google Scholar](https://scholar.google.com/citations?user=vc-N3msAAAAJ&hl=en) profile
 * [Mozilla profile](https://support.mozilla.org/en-US/user/selvaklnc/) of Selvakumaran Krishnan
 * [Research papers](https://annamalai.academia.edu/SelvakumaranKrishnan) submitted by Selvakumaran Krishnan on Academia.edu
@@ -28,6 +33,7 @@ Interesting topics on all subjects:
 
 ## List of articles and posts
 
+* [Trusted blogs](https://www.trusted-blogs.com/magazin/blog/dvlLJ9) listed Wikimint magazine.
 * [Secrets of inner piece](https://www.tumblr.com/magazinechronicles/732720366640939008/unlocking-the-secrets-of-mindfulness-a-journey-to?source=share) - Unlocking the Secrets of Mindfulness: A Journey to Inner Peace
 * [Unusual hobbies](https://www.reddit.com/r/wikimintcreations/comments/1cuxctj/10_unusual_hobbies_to_try_in_2024_discover_your/) - 10 Unusual Hobbies to Try in 2024: Discover Your Next Passion!
 * [Stock market facts](https://www.wikimint.com/2024/01/interesting-facts-about-stock-market.html) - 25 Captivating Stock Market Facts - Intriguing Insights
@@ -48,5 +54,9 @@ Interesting topics on all subjects:
 
 ## List of important bookmarks
 
+* [Carrd profile](https://ourmaster.carrd.co/) links collections for better handling of usefull information.
+* [Taplink collection](https://taplink.cc/ourmaster) is a collection of bookmarks to remember.
+* [Protopage home collections](https://www.protopage.com/selvaklnc) to feature important web logs.
+* [Lasso bookmarks](https://www.lasso.net/go/link/0f9ICl) to store important web collections.
 * [Case converter](https://www.linkedin.com/feed/update/urn:li:activity:7195453146377166848) - Transform your text effortlessly with our advanced Case Converter tool
 * [Symbaloo bookmarks](https://www.symbaloo.com/mix/selvaklnc) by Selvakumaran Krishnan  
