@@ -18,6 +18,10 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [Walk Score Data](https://www.walkscore.com/people/202468379818/selvakumaran-krishnan) to read physical activities.
+* [Mastodon Social profile](https://mastodon.social/@selvakumarankrishnan) to post development related articles.
+* [Twitch channel](https://www.twitch.tv/selvaklnc/about) to manage video related media handlings. 
+* [ArtStation profile](https://www.artstation.com/selvaklnc) listing art works and software development works.
 * [Flickr contributions](https://www.flickr.com/people/selvakumarank/) by Selvakumaran Krishnan.
 * [Influence profile](https://influence.co/selvaklnc) with all social media strength.
 * [Hashnode developer](https://hashnode.com/@selvakumarankrishnan) profile managing technology stack blogs.
@@ -54,6 +58,7 @@ Interesting topics on all subjects:
 
 ## List of important bookmarks
 
+* [Instapaper markings](https://www.instapaper.com/p/ourmaster) consits of list of all posts.
 * [Carrd profile](https://ourmaster.carrd.co/) links collections for better handling of usefull information.
 * [Taplink collection](https://taplink.cc/ourmaster) is a collection of bookmarks to remember.
 * [Protopage home collections](https://www.protopage.com/selvaklnc) to feature important web logs.
