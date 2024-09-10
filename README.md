@@ -18,6 +18,8 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [Hatena profile](https://profile.hatena.ne.jp/selvaklnc/) to explore vaious social presence.
+* [Myspace profile](https://myspace.com/selvaklnc) to share photo insights.
 * [Walk Score Data](https://www.walkscore.com/people/202468379818/selvakumaran-krishnan) to read physical activities.
 * [Mastodon Social profile](https://mastodon.social/@selvakumarankrishnan) to post development related articles.
 * [Twitch channel](https://www.twitch.tv/selvaklnc/about) to manage video related media handlings. 
@@ -46,6 +48,7 @@ Interesting topics on all subjects:
 
 ## List of company profiles
 
+* [Telegram Channel](https://t.me/wikimintcreations) of Wikimint sharing useful insights.
 * [Creative animation collections](https://giphy.com/channel/wikimint) - Wikimint entering to offer gif images for creative developers
 
 ## List of blogs and websites
@@ -58,6 +61,11 @@ Interesting topics on all subjects:
 
 ## List of important bookmarks
 
+* [Our master feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fourmaster.wordpress.com%2Ffeed%2Fatom%2F) feeds of latest articles.
+* [Wikimint feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.wikimint.com%2Ffeeds%2Fposts%2Fdefault) feeds of latest articles.
+* [Top List Reads feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ftop-list-reads.blogspot.com%2Ffeeds%2Fposts%2Fdefault) feeds of latest articles. 
+* [Mssg me](https://mssg.me/1fcxc) bookmarks for later visits.
+* [Start me page](https://start.me/p/n70XwM/start-page) having bookmarks of important feeds.
 * [Instapaper markings](https://www.instapaper.com/p/ourmaster) consits of list of all posts.
 * [Carrd profile](https://ourmaster.carrd.co/) links collections for better handling of usefull information.
 * [Taplink collection](https://taplink.cc/ourmaster) is a collection of bookmarks to remember.
@@ -65,3 +73,8 @@ Interesting topics on all subjects:
 * [Lasso bookmarks](https://www.lasso.net/go/link/0f9ICl) to store important web collections.
 * [Case converter](https://www.linkedin.com/feed/update/urn:li:activity:7195453146377166848) - Transform your text effortlessly with our advanced Case Converter tool
 * [Symbaloo bookmarks](https://www.symbaloo.com/mix/selvaklnc) by Selvakumaran Krishnan  
+
+## Others
+
+* [IMDB movie ratings](https://www.imdb.com/user/ur188079319/) and my favourite movie collections.
+* [Wikimint from YouTube](https://www.youtube.com/redirect?q=https://www.wikimint.com/p/about.html)
