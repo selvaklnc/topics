@@ -25,6 +25,7 @@ Interesting topics on all subjects:
 * [Hatena profile](https://profile.hatena.ne.jp/selvaklnc/) to explore vaious social presence.
 * [Myspace profile](https://myspace.com/selvaklnc) to share photo insights.
 * [Walk Score Data](https://www.walkscore.com/people/202468379818/selvakumaran-krishnan) to read physical activities.
+* [Selvakumaran @ Apsense](https://www.apsense.com/user/ourmaster) post feeds.
 * [Mastodon Social profile](https://mastodon.social/@selvakumarankrishnan) to post development related articles.
 * [Twitch channel](https://www.twitch.tv/selvaklnc/about) to manage video related media handlings. 
 * [ArtStation profile](https://www.artstation.com/selvaklnc) listing art works and software development works.
