@@ -18,6 +18,9 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [Docker Hub](https://hub.docker.com/u/selvaklnc) profile of Selvakumaran Krishnan.
+* [Producthunt profile](https://www.producthunt.com/@selvaklnc) to share product reviews.
+* [IMDB profile](https://www.imdb.com/user/ur188079319/) and my favourite movie collections.
 * [Hatena profile](https://profile.hatena.ne.jp/selvaklnc/) to explore vaious social presence.
 * [Myspace profile](https://myspace.com/selvaklnc) to share photo insights.
 * [Walk Score Data](https://www.walkscore.com/people/202468379818/selvakumaran-krishnan) to read physical activities.
@@ -36,6 +39,10 @@ Interesting topics on all subjects:
 * [ORCID record](https://orcid.org/0009-0000-8447-0285) - Public record of Selvakumaran Krishnan at ORCID
 * [Medium profile](https://medium.com/@selvakumarankrishnan/about) of Selvakumaran Krishnan, founder of Wikimint.
 * [LibraryThing profile](https://www.librarything.com/profile/selvaklnc) - collection of books by Selvakumaran Krishnan
+* [Twitter profile](http://twitter.com/selvakumarankri) for twwets.
+* [LinkedIn profile](http://linkedin.com/in/selvakumaran-krishnan) to share professional insights.
+* [Facebook profile](http://facebook.com/selvakumarank) to post engaging insights.
+* [GitHub profile](http://github.com/selvaklnc) to share development related stuffs.
 
 ## List of articles and posts
 
@@ -48,6 +55,7 @@ Interesting topics on all subjects:
 
 ## List of company profiles
 
+* [Patreon page](https://www.patreon.com/wikimint/about) of Wikimin.
 * [Telegram Channel](https://t.me/wikimintcreations) of Wikimint sharing useful insights.
 * [Creative animation collections](https://giphy.com/channel/wikimint) - Wikimint entering to offer gif images for creative developers
 
@@ -58,9 +66,11 @@ Interesting topics on all subjects:
 * [Selvakumaran Krishnan Strikingly](https://ourmaster.mystrikingly.com/) - Personal profile at Strikingly
 * [Ourmaster at Google groups](https://groups.google.com/g/ourmaster) - Discussions about online business ideas
 * [Developer group](https://groups.google.com/g/fullstackwebdev) - Join web developer group to get updated daily on full-stack development topics
+* [Tumblr blog](http://magazinechronicles.tumblr.com/) to share useful and insightfull posts.
 
 ## List of important bookmarks
 
+* [Follow It feed](https://follow.it/wikimintfeedspostsdefault?pub) page of Wikimint.
 * [Our master feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fourmaster.wordpress.com%2Ffeed%2Fatom%2F) feeds of latest articles.
 * [Wikimint feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.wikimint.com%2Ffeeds%2Fposts%2Fdefault) feeds of latest articles.
 * [Top List Reads feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ftop-list-reads.blogspot.com%2Ffeeds%2Fposts%2Fdefault) feeds of latest articles. 
@@ -76,5 +86,8 @@ Interesting topics on all subjects:
 
 ## Others
 
-* [IMDB movie ratings](https://www.imdb.com/user/ur188079319/) and my favourite movie collections.
 * [Wikimint from YouTube](https://www.youtube.com/redirect?q=https://www.wikimint.com/p/about.html)
+* [Wikimint magazine](https://www.google.com/url?q=https://www.wikimint.com/p/about.html).
+* [Full stack development](https://www.google.com/url?q=https://developer.wikimint.com/p/start.html) page redirect.
+* [Go to listicle blog](https://www.google.com/url?q=https://top-list-reads.blogspot.com/p/about-us.html).
+* [Our master wordpress](https://www.google.com/url?q=https://ourmaster.wordpress.com) blog.
