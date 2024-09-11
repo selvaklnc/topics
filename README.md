@@ -2,7 +2,7 @@
 
 Interesting topics on all subjects:
 
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/selvaklnc/topics)  [![Trending Now](https://img.shields.io/badge/View_on_GitHub-Click_here-blue.svg)](https://github.com/trending)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/selvaklnc/topics)  [![Trending Now](https://img.shields.io/badge/View_on_GitHub-Click_here-blue.svg)](https://selvaklnc.github.io/topics)
 
 
 ## List of interesting topics
