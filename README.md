@@ -2,7 +2,7 @@
 
 Interesting topics on all subjects:
 
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/selvaklnc/topics)  [![Trending Now](https://img.shields.io/badge/View_on_GitHub-Click_here-blue.svg)](https://github.com/selvaklnc/topics)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/selvaklnc/topics)  [![Trending Now](https://img.shields.io/badge/View_on_GitHub-Click_here-blue.svg)](https://selvaklnc.github.io/topics)
 
 
 ## List of interesting topics
@@ -18,6 +18,7 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [Quora profile of Selvakumaran Krishnan](https://www.quora.com/profile/Selvakumaran-Krishnan-3) answering questions.
 * [Docker Hub](https://hub.docker.com/u/selvaklnc) profile of Selvakumaran Krishnan.
 * [Producthunt profile](https://www.producthunt.com/@selvaklnc) to share product reviews.
 * [IMDB profile](https://www.imdb.com/user/ur188079319/) and my favourite movie collections.
@@ -57,6 +58,7 @@ Interesting topics on all subjects:
 
 * [Patreon page](https://www.patreon.com/wikimint/about) of Wikimin.
 * [Telegram Channel](https://t.me/wikimintcreations) of Wikimint sharing useful insights.
+* [Quora posting by Wikimint](https://wikimint.quora.com/) with insightfull answers.
 * [Creative animation collections](https://giphy.com/channel/wikimint) - Wikimint entering to offer gif images for creative developers
 
 ## List of blogs and websites
