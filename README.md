@@ -18,9 +18,12 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [About.me profile](https://about.me/selvakumarankrishnan) of Selvakumaran Krishnan.
 * [Quora profile of Selvakumaran Krishnan](https://www.quora.com/profile/Selvakumaran-Krishnan-3) answering questions.
+* [SK @ blogger](https://www.blogger.com/profile/05123685904005963930) with blogger post lists.
 * [Docker Hub](https://hub.docker.com/u/selvaklnc) profile of Selvakumaran Krishnan.
 * [Producthunt profile](https://www.producthunt.com/@selvaklnc) to share product reviews.
+* [SK @ Draft Blogger](https://draft.blogger.com/profile/05123685904005963930) with list of blogger blogs.
 * [IMDB profile](https://www.imdb.com/user/ur188079319/) and my favourite movie collections.
 * [Hatena profile](https://profile.hatena.ne.jp/selvaklnc/) to explore vaious social presence.
 * [Myspace profile](https://myspace.com/selvaklnc) to share photo insights.
@@ -48,10 +51,19 @@ Interesting topics on all subjects:
 
 ## List of articles and posts
 
+* [Elevate Your SEO](https://www.evernote.com/shard/s621/sh/6f105bdf-6edc-383e-63e2-94c1cbbbce74/p8N6ZAiL0ZkoX2-m01byQwnMd65c1AYajQUUs-jvNP__leiAZlALFELZMA) Unveiling the Power of Web 2.0 Blogging Sites for Premium Backlinks.
+* [Mastering the Digital Frontier](https://postheaven.net/vibereads/mastering-the-digital-frontier-unveiling-strategies-for-successful-online) Unveiling Strategies for Successful Online Business.
+* [Elevate Your SEO](https://www.evernote.com/shard/s621/sh/6f105bdf-6edc-383e-63e2-94c1cbbbce74/p8N6ZAiL0ZkoX2-m01byQwnMd65c1AYajQUUs-jvNP__leiAZlALFELZMA) Unveiling the Power of Web 2.0 Blogging Sites for Premium Backlinks.
 * [Trusted blogs](https://www.trusted-blogs.com/magazin/blog/dvlLJ9) listed Wikimint magazine.
+* [Digital Renaissance](https://www.evernote.com/shard/s621/sh/f3dc2e0f-caf6-77df-e494-f74897124f58/a1RmmhYUWZXSAw7Kt5SkoqhxXPk_A9Frni1UK-7X3QYO3I2oNg5uf2h8bw) The Ascendance of Online Magazine Business and the Empowerment of Digital Publishing.
 * [Secrets of inner piece](https://www.tumblr.com/magazinechronicles/732720366640939008/unlocking-the-secrets-of-mindfulness-a-journey-to?source=share) - Unlocking the Secrets of Mindfulness: A Journey to Inner Peace
+* [Launching Your Empire](https://www.evernote.com/shard/s621/sh/782a527a-ca38-eb7d-dc16-9378f970c334/Q0yKXHOTkZOVbQ7grNqjHWV6IHOJwcoscgjn1oI-u69klSuFsv9W5KzLfg) Quick and Easy Online Business Ideas for Instant Entrepreneurial Success.
 * [Unusual hobbies](https://www.reddit.com/r/wikimintcreations/comments/1cuxctj/10_unusual_hobbies_to_try_in_2024_discover_your/) - 10 Unusual Hobbies to Try in 2024: Discover Your Next Passion!
+* [Boost Your Bottom Line](https://ourmaster.mataroa.blog/blog/boost-your-bottom-line-proven-strategies-for-small-business-success) Proven Strategies for Small Business Success.
+* [Mastering Affiliate Marketing](https://www.evernote.com/shard/s621/sh/39076e73-dd4c-4c0a-7779-a63e8ba1a30e/x2ur84Aq0xz35TKYMNCvuE4ML_eGuCmqlw-Gn5z-okVJPknC6YTwpXxYQw) Your Guide to Effortless Income Generation in Simple Steps.
+* [Blockbuster Interviews](https://sites.google.com/view/vibe-reads/blockbuster-interviews-with-movie-icons) Exclusive Chats with Movie Icons.
 * [Stock market facts](https://www.wikimint.com/2024/01/interesting-facts-about-stock-market.html) - 25 Captivating Stock Market Facts - Intriguing Insights
+* [Bioluminescence Unveiled](https://www.evernote.com/shard/s621/sh/674d8fa6-70b1-c870-932c-158281775620/2W8SlppCtGPdLtaAQt4IfLdejJ_G1hcM6youEx49sPUEpWLl37XYtz938A) Journey into the Radiant World of Light-Emitting Wonders.
 * [Online business ideas](https://groups.google.com/g/ourmaster/c/VNygVkcCQLw) to start up an online business matching your skills.
 * [Full-stack developer](https://groups.google.com/g/fullstackwebdev/c/njUAZJvXMQk) group to skill-up programming knowledge.
 
@@ -62,6 +74,7 @@ Interesting topics on all subjects:
 * [Quora posting by Wikimint](https://wikimint.quora.com/) with insightfull answers.
 * [Creative animation collections](https://giphy.com/channel/wikimint) - Wikimint entering to offer gif images for creative developers
 * [Wikimint @ Reddit](https://www.reddit.com/r/wikimintcreations/) reddit posts by Wikimint.
+* [Wikimint @ GitHub](https://github.com/wikimint) wih full-stack development insights.
 
 ## List of blogs and websites
 
@@ -74,6 +87,9 @@ Interesting topics on all subjects:
 
 ## List of important bookmarks
 
+* [Free for developer](https://free-for.dev/) collection of freeware developer tools.
+* [Our master @ Linktree](https://linktr.ee/ourmaster) with must have links.
+* [Ourmaster @ Diigo](https://www.diigo.com/profile/ourmaster) with important posts marks.
 * [Follow It feed](https://follow.it/wikimintfeedspostsdefault?pub) page of Wikimint.
 * [Our master feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fourmaster.wordpress.com%2Ffeed%2Fatom%2F) feeds of latest articles.
 * [Wikimint feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.wikimint.com%2Ffeeds%2Fposts%2Fdefault) feeds of latest articles.
