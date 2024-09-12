@@ -44,6 +44,7 @@ Interesting topics on all subjects:
 * [ORCID record](https://orcid.org/0009-0000-8447-0285) - Public record of Selvakumaran Krishnan at ORCID
 * [Medium profile](https://medium.com/@selvakumarankrishnan/about) of Selvakumaran Krishnan, founder of Wikimint.
 * [LibraryThing profile](https://www.librarything.com/profile/selvaklnc) - collection of books by Selvakumaran Krishnan
+* [Selvakumaran Krishnan @ Shutterstock](https://www.shutterstock.com/g/selvakumaran-krishnan/about) publishing nature loving photographies.
 * [Twitter profile](http://twitter.com/selvakumarankri) for twwets.
 * [LinkedIn profile](http://linkedin.com/in/selvakumaran-krishnan) to share professional insights.
 * [Facebook profile](http://facebook.com/selvakumarank) to post engaging insights.
@@ -69,7 +70,8 @@ Interesting topics on all subjects:
 
 ## List of company profiles
 
-* [Patreon page](https://www.patreon.com/wikimint/about) of Wikimin.
+* [Wikimint @ YouTube](https://www.youtube.com/c/wikimint) publishing videos on various topics.
+* [Patreon page](https://www.patreon.com/wikimint/about) of Wikimint.
 * [Telegram Channel](https://t.me/wikimintcreations) of Wikimint sharing useful insights.
 * [Quora posting by Wikimint](https://wikimint.quora.com/) with insightfull answers.
 * [Creative animation collections](https://giphy.com/channel/wikimint) - Wikimint entering to offer gif images for creative developers
