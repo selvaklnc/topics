@@ -18,6 +18,7 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [Selvakumaran Krishnan @ Behance](https://www.behance.net/selvakumarankrishnan) - developer portfolio. 
 * [Selvaklnc @ Intensedebate](https://www.intensedebate.com/profiles/selvaklnc), a commenting platform.
 * [About.me profile](https://about.me/selvakumarankrishnan) of Selvakumaran Krishnan.
 * [Quora profile of Selvakumaran Krishnan](https://www.quora.com/profile/Selvakumaran-Krishnan-3) answering questions.
@@ -73,6 +74,7 @@ Interesting topics on all subjects:
 
 ## List of company profiles
 
+* [Wikimint @ Trustpilot](https://www.trustpilot.com/review/wikimint.com) reviews.
 * [Wikimint @ YouTube](https://www.youtube.com/c/wikimint) publishing videos on various topics.
 * [Patreon page](https://www.patreon.com/wikimint/about) of Wikimint.
 * [Telegram Channel](https://t.me/wikimintcreations) of Wikimint sharing useful insights.
