@@ -22,7 +22,7 @@ Interesting topics on all subjects:
 * [Selvaklnc @ Intensedebate](https://www.intensedebate.com/profiles/selvaklnc), a commenting platform.
 * [About.me profile](https://about.me/selvakumarankrishnan) of Selvakumaran Krishnan.
 * [Quora profile of Selvakumaran Krishnan](https://www.quora.com/profile/Selvakumaran-Krishnan-3) answering questions.
-* [Selvakumaran Krishnan @ Wikialpha](https://wikialpha.co/wiki/Selvakumaran_Krishnan), n Indian Software Developer.
+* [Selvakumaran Krishnan @ Wikialpha](https://wikialpha.co/wiki/Selvakumaran_Krishnan), an Indian Software Developer.
 * [SK @ blogger](https://www.blogger.com/profile/05123685904005963930) with blogger post lists.
 * [Docker Hub](https://hub.docker.com/u/selvaklnc) profile of Selvakumaran Krishnan.
 * [Producthunt profile](https://www.producthunt.com/@selvaklnc) to share product reviews.
@@ -52,6 +52,7 @@ Interesting topics on all subjects:
 * [LinkedIn profile](http://linkedin.com/in/selvakumaran-krishnan) to share professional insights.
 * [Facebook profile](http://facebook.com/selvakumarank) to post engaging insights.
 * [GitHub profile](http://github.com/selvaklnc) to share development related stuffs.
+* [Threads profile of Ourmaster](https://www.threads.net/@ourmasterks) with recent feeds.
 
 ## List of articles and posts
 
@@ -74,6 +75,7 @@ Interesting topics on all subjects:
 
 ## List of company profiles
 
+* [Wikimint @ Issuu](https://issuu.com/wikimint) with recent publications.
 * [Wikimint @ Trustpilot](https://www.trustpilot.com/review/wikimint.com) reviews.
 * [Wikimint @ YouTube](https://www.youtube.com/c/wikimint) publishing videos on various topics.
 * [Patreon page](https://www.patreon.com/wikimint/about) of Wikimint.
