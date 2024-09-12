@@ -18,6 +18,7 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [Selvaklnc @ Intensedebate](https://www.intensedebate.com/profiles/selvaklnc), a commenting platform.
 * [About.me profile](https://about.me/selvakumarankrishnan) of Selvakumaran Krishnan.
 * [Quora profile of Selvakumaran Krishnan](https://www.quora.com/profile/Selvakumaran-Krishnan-3) answering questions.
 * [SK @ blogger](https://www.blogger.com/profile/05123685904005963930) with blogger post lists.
@@ -86,6 +87,7 @@ Interesting topics on all subjects:
 * [Ourmaster at Google groups](https://groups.google.com/g/ourmaster) - Discussions about online business ideas
 * [Developer group](https://groups.google.com/g/fullstackwebdev) - Join web developer group to get updated daily on full-stack development topics
 * [Tumblr blog](http://magazinechronicles.tumblr.com/) to share useful and insightfull posts.
+* [Vibe reads](https://sites.google.com/view/vibe-reads/home) exploring insightful thoughts.
 
 ## List of important bookmarks
 
@@ -94,6 +96,7 @@ Interesting topics on all subjects:
 * [Ourmaster @ Diigo](https://www.diigo.com/profile/ourmaster) with important posts marks.
 * [Follow It feed](https://follow.it/wikimintfeedspostsdefault?pub) page of Wikimint.
 * [Our master feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fourmaster.wordpress.com%2Ffeed%2Fatom%2F) feeds of latest articles.
+* [Ourmaster @ Solo](https://solo.to/ourmaster) with all collections.
 * [Wikimint feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.wikimint.com%2Ffeeds%2Fposts%2Fdefault) feeds of latest articles.
 * [Top List Reads feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ftop-list-reads.blogspot.com%2Ffeeds%2Fposts%2Fdefault) feeds of latest articles. 
 * [Mssg me](https://mssg.me/1fcxc) bookmarks for later visits.
