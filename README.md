@@ -53,6 +53,7 @@ Interesting topics on all subjects:
 * [Facebook profile](http://facebook.com/selvakumarank) to post engaging insights.
 * [GitHub profile](http://github.com/selvaklnc) to share development related stuffs.
 * [Threads profile of Ourmaster](https://www.threads.net/@ourmasterks) with recent feeds.
+* [Selvakumaran Krishnan @ Slideshare](https://www.slideshare.net/SELVAKUMARANK1) - publishing slide posts.
 
 ## List of articles and posts
 
