@@ -57,7 +57,6 @@ Interesting topics on all subjects:
 ## List of articles and posts
 
 * [About Selvakumaran Krishnan](https://telegra.ph/About-Selvakumaran-Krishnan---Software-Developer-09-12) on web development and blogging.
-* [Elevate Your SEO](https://www.evernote.com/shard/s621/sh/6f105bdf-6edc-383e-63e2-94c1cbbbce74/p8N6ZAiL0ZkoX2-m01byQwnMd65c1AYajQUUs-jvNP__leiAZlALFELZMA) Unveiling the Power of Web 2.0 Blogging Sites for Premium Backlinks.
 * [Mastering the Digital Frontier](https://postheaven.net/vibereads/mastering-the-digital-frontier-unveiling-strategies-for-successful-online) Unveiling Strategies for Successful Online Business.
 * [Elevate Your SEO](https://www.evernote.com/shard/s621/sh/6f105bdf-6edc-383e-63e2-94c1cbbbce74/p8N6ZAiL0ZkoX2-m01byQwnMd65c1AYajQUUs-jvNP__leiAZlALFELZMA) Unveiling the Power of Web 2.0 Blogging Sites for Premium Backlinks.
 * [Trusted blogs](https://www.trusted-blogs.com/magazin/blog/dvlLJ9) listed Wikimint magazine.
@@ -122,3 +121,4 @@ Interesting topics on all subjects:
 * [Full stack development](https://www.google.com/url?q=https://developer.wikimint.com/p/start.html) page redirect.
 * [Go to listicle blog](https://www.google.com/url?q=https://top-list-reads.blogspot.com/p/about-us.html).
 * [Our master wordpress](https://www.google.com/url?q=https://ourmaster.wordpress.com) blog.
+* [New Tab Pulse chrome extension](https://chromewebstore.google.com/detail/new-tab-pulse/dbhalcohjjpbdmfbccdhdjidgdkiignc) opens new tab with insightful feeds.
