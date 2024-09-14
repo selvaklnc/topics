@@ -18,6 +18,7 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [TED profile of Selvakumaran Krishnan](https://www.ted.com/profiles/47756825) with biography.
 * [Selvakumaran Krishnan @ Behance](https://www.behance.net/selvakumarankrishnan) - developer portfolio. 
 * [Selvaklnc @ Intensedebate](https://www.intensedebate.com/profiles/selvaklnc), a commenting platform.
 * [About.me profile](https://about.me/selvakumarankrishnan) of Selvakumaran Krishnan.
