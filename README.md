@@ -57,6 +57,9 @@ Interesting topics on all subjects:
 
 ## List of articles and posts
 
+* [Best 10 stock brokers in India](https://top-list-reads.blogspot.com/2024/09/best-stock-brokers-india.html) for better investments.
+* [Matering Indian stock market](https://telegra.ph/Mastering-Stock-Market-Investment-in-India-A-Practical-Guide-09-14): a practical guide to approach investing.
+* [Selvakumaran Krishnan](https://beststartup.in/selvakumaran-krishnan-the-drive-to-innovate-and-make-a-positive-impact-in-the-digital-world-fuels-my-mornings/)The drive to innovate and make a positive impact in the digital world fuels my mornings.
 * [About Selvakumaran Krishnan](https://telegra.ph/About-Selvakumaran-Krishnan---Software-Developer-09-12) on web development and blogging.
 * [Mastering the Digital Frontier](https://postheaven.net/vibereads/mastering-the-digital-frontier-unveiling-strategies-for-successful-online) Unveiling Strategies for Successful Online Business.
 * [Elevate Your SEO](https://www.evernote.com/shard/s621/sh/6f105bdf-6edc-383e-63e2-94c1cbbbce74/p8N6ZAiL0ZkoX2-m01byQwnMd65c1AYajQUUs-jvNP__leiAZlALFELZMA) Unveiling the Power of Web 2.0 Blogging Sites for Premium Backlinks.
@@ -123,3 +126,8 @@ Interesting topics on all subjects:
 * [Go to listicle blog](https://www.google.com/url?q=https://top-list-reads.blogspot.com/p/about-us.html).
 * [Our master wordpress](https://www.google.com/url?q=https://ourmaster.wordpress.com) blog.
 * [New Tab Pulse chrome extension](https://chromewebstore.google.com/detail/new-tab-pulse/dbhalcohjjpbdmfbccdhdjidgdkiignc) opens new tab with insightful feeds.
+* [Browser extension](https://www.chromefk.com/wikimint-creations.html) by Wikimint creations.
+* [Search Wikimint Developer](https://yandex.com.tr/search/?text=developer.wikimint.com) on Yandex.
+* [Search Wikimint](https://yandex.com.tr/search/?text=wikimint.com) on Yandex.
+* [Top list reads](https://yandex.com.tr/search/?text=top-list-reads.blogspot.com) listicle blog on Yandex.
+* [Search Ourmaster](https://yandex.com.tr/search/?text=ourmaster.wordpress.com) on Yandex.
