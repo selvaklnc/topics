@@ -58,7 +58,10 @@ Interesting topics on all subjects:
 
 ## List of articles and posts
 
+* [Business ideas](https://telegra.ph/Best-Online-Businesses-to-Earn-Money-Online-11-06) to make money online.
+* [Travel safety tips](https://ourmaster.livepositively.com/personal-security-tips-for-a-safe-and-secure-travel-experience/): Safe and secure travel and tour tips.
 * [Best 10 stock brokers in India](https://top-list-reads.blogspot.com/2024/09/best-stock-brokers-india.html) for better investments.
+* [Affiliate marketing](https://telegra.ph/The-Art-and-Science-of-Affiliate-Marketing---A-Comprehensive-Guide-to-Success-11-10) must to know tips.
 * [Matering Indian stock market](https://telegra.ph/Mastering-Stock-Market-Investment-in-India-A-Practical-Guide-09-14): a practical guide to approach investing.
 * [Selvakumaran Krishnan](https://beststartup.in/selvakumaran-krishnan-the-drive-to-innovate-and-make-a-positive-impact-in-the-digital-world-fuels-my-mornings/)The drive to innovate and make a positive impact in the digital world fuels my mornings.
 * [About Selvakumaran Krishnan](https://telegra.ph/About-Selvakumaran-Krishnan---Software-Developer-09-12) on web development and blogging.
