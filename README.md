@@ -18,6 +18,8 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [Crunchbase profile of Selvakumaran Krishnan](https://www.crunchbase.com/person/selvakumaran-krishnan-20e4) with developer profile.
+* [Ourmaster @ DNS.xyz](https://dns.xyz/ourmaster) - Selvakumaran Krishnan.
 * [TED profile of Selvakumaran Krishnan](https://www.ted.com/profiles/47756825) with biography.
 * [Selvakumaran Krishnan @ Behance](https://www.behance.net/selvakumarankrishnan) - developer portfolio. 
 * [Selvaklnc @ Intensedebate](https://www.intensedebate.com/profiles/selvaklnc), a commenting platform.
