@@ -7,6 +7,8 @@ Interesting topics on all subjects:
 
 ## List of interesting topics
 
+* [Top 10 best stock brokers](https://docs.google.com/presentation/d/1pO-c2HVgG7IRk61EKaw1cfs_47lOxfuF09Qb8k-LZDw/edit?usp=sharing) in India - presentation slide by Selvakumaran Krishnan.
+* [Best practices in Software Development](https://docs.google.com/presentation/d/16AYe9ic68tmIiRnPwMFyNtsc1lP2fyGsQ-Wbgks6Hao/edit?usp=sharing) presentation by Selvakumaran Krishnan.
 * [Topics](https://selvaklnc.github.io/topics/) - Interesting topics coverage on all subjects
 * [Web development](https://docs.google.com/spreadsheets/d/1JEZEvXD6ffsrAihui59pl5SU86y_zfrPLH8KkYxfzD4/edit?gid=0#gid=0) - Top 5 websites to mastering web development
 * [WordPress development](https://docs.google.com/document/d/1t8Af6dCM1JrVYLeepSNkxgBlpYcUlhRuZ3GXVqpibj4/edit) - Understaning the power of WordPress CMS
@@ -60,6 +62,7 @@ Interesting topics on all subjects:
 
 ## List of articles and posts
 
+* [How to take care of pets](https://ourmaster.wordpress.com/2024/09/15/pet-care-tips-for-travelers-making-the-best-choice-for-your-furry-friend/) during travel.
 * [Business ideas](https://telegra.ph/Best-Online-Businesses-to-Earn-Money-Online-11-06) to make money online.
 * [Travel safety tips](https://ourmaster.livepositively.com/personal-security-tips-for-a-safe-and-secure-travel-experience/): Safe and secure travel and tour tips.
 * [Best 10 stock brokers in India](https://top-list-reads.blogspot.com/2024/09/best-stock-brokers-india.html) for better investments.
