@@ -20,6 +20,8 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [Selva @ Instagram](https://www.instagram.com/ourmasterks)
+* [Selvakumaran Krishnan @ MOZ](https://moz.com/community/q/user/selvakumaran)
 * [Crunchbase profile of Selvakumaran Krishnan](https://www.crunchbase.com/person/selvakumaran-krishnan-20e4) with developer profile.
 * [Ourmaster @ DNS.xyz](https://dns.xyz/ourmaster) - Selvakumaran Krishnan.
 * [TED profile of Selvakumaran Krishnan](https://www.ted.com/profiles/47756825) with biography.
