@@ -20,7 +20,6 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
-* [Selvakumaran Krishnan @ Minds](https://www.minds.com/selvaklnc/) social platform.
 * [Selva @ Instagram](https://www.instagram.com/ourmasterks)
 * [Selvakumaran Krishnan @ MOZ](https://moz.com/community/q/user/selvakumaran)
 * [Crunchbase profile of Selvakumaran Krishnan](https://www.crunchbase.com/person/selvakumaran-krishnan-20e4) with developer profile.
