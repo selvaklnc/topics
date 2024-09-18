@@ -202,6 +202,8 @@ Interesting topics on all subjects:
 
 ## Others
 
+* [wmWebStacl localhost server](https://alternativeto.net/software/wmwebstack/about/)
+* [wmWebStack alternatives](https://alternativeto.net/software/wmwebstack/) Web Servers and other similar apps like wmWebStack.
 * [Wikimint from YouTube](https://www.youtube.com/redirect?q=https://www.wikimint.com/p/about.html)
 * [Wikimint magazine](https://www.google.com/url?q=https://www.wikimint.com/p/about.html).
 * [Full stack development](https://www.google.com/url?q=https://developer.wikimint.com/p/start.html) page redirect.
