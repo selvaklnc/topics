@@ -65,7 +65,7 @@ Interesting topics on all subjects:
 * [Selvakumaran Krishnan @ Slideshare](https://www.slideshare.net/SELVAKUMARANK1) - publishing slide posts.
 
 ## List of articles and posts
- 
+
 * [Online Business](https://ext-6630128.livejournal.com/495.html): A Path to Financial Freedom
 * How wmWebStack Simplifies [Local Web Development](https://moneymakingstrategies1.wordpress.com/2024/09/18/how-wmwebstack-simplifies-local-web-development/)
 * wmWebStack: The Best [Free Server Software for Windows](https://tan7078.livepositively.com/wmwebstack-the-best-free-server-software-for-windows-developers/) for web developrs.
