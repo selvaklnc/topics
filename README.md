@@ -21,6 +21,7 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* [Selvakumaran @ Adspot](https://www.adpost.com/u/selvakumaran301/)
 * [Selvakumaran Krishnan @ Rhizome](https://conifer.rhizome.org/selvaklnc) - Creative collections.
 * [Selvaklnc @ LongIsland](https://www.longisland.com/profile/selvaklnc) - Articles, events, companies.
 * [Selvakumaran Krishnan @ Dribble](https://dribbble.com/selvaklnc) - Web developer.
