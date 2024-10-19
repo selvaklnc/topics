@@ -70,7 +70,7 @@ Interesting topics on all subjects:
 * [Selvakumaran Krishnan @ Slideshare](https://www.slideshare.net/SELVAKUMARANK1) - publishing slide posts.
 
 ## List of articles and posts
-
+ 
 * [Profitable Online Business Ideas for 2024](https://sites.google.com/view/vibe-reads/articles-profitable-online-business-ideas) – Kickstart Your Digital Venture
 * [Best Online Business Ideas & Passive Income Opportunities](https://ourmaster.wordpress.com/2024/10/19/best-online-business-ideas-passive-income-opportunities-for-2024/) for 2024
 * 30 Best [Articles Guiding to Profitable Online Business](https://top-list-reads.blogspot.com/2024/10/online-business-idea-collection.html) Ideas in 2024
