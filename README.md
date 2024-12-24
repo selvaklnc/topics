@@ -21,6 +21,7 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+* Selvakumaran Krishnan with [Notion Profile](https://frosted-system-200.notion.site/Selvakumaran-Krishnan-165cd7277d458068bdb1c1c79cdd5784)
 * Selvakumaran @ [MMM UVAR Forum](https://forum.mmm.ucar.edu/members/selvaklnc.32903/#about)
 * Selvakumaran Krishnan @ [CDCP](https://nationaldppcsc.cdc.gov/s/profile/005SJ000008YSIDYA4)
 * Selvakumaran Krishnan @ [Ilm Institute](https://ilm.iou.edu.gm/members/wikimint/)
@@ -216,6 +217,7 @@ Interesting topics on all subjects:
 * [Lasso bookmarks](https://www.lasso.net/go/link/0f9ICl) to store important web collections.
 * [Case converter](https://www.linkedin.com/feed/update/urn:li:activity:7195453146377166848) - Transform your text effortlessly with our advanced Case Converter tool
 * [Symbaloo bookmarks](https://www.symbaloo.com/mix/selvaklnc) by Selvakumaran Krishnan  
+* [Bio link profile](https://bio.link/ourmaster) Selvakumaran.
 
 ## Others
 
