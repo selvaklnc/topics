@@ -21,6 +21,18 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+
+* Selvakumaran Krishnan with [Notion Profile](https://frosted-system-200.notion.site/Selvakumaran-Krishnan-165cd7277d458068bdb1c1c79cdd5784)
+* Selvakumaran @ [MMM UVAR Forum](https://forum.mmm.ucar.edu/members/selvaklnc.32903/#about)
+* Selvakumaran Krishnan @ [CDCP](https://nationaldppcsc.cdc.gov/s/profile/005SJ000008YSIDYA4)
+* Selvakumaran Krishnan @ [Ilm Institute](https://ilm.iou.edu.gm/members/wikimint/)
+* [selvakumaran Krishnan](https://connects.ctschicago.edu/forums/users/194221/) @ CTS Chicago Forum
+* [Selvakumaran @ Adspot](https://www.adpost.com/u/selvakumaran301/)
+* [Selvakumaran Krishnan @ Rhizome](https://conifer.rhizome.org/selvaklnc) - Creative collections.
+* [Selvaklnc @ LongIsland](https://www.longisland.com/profile/selvaklnc) - Articles, events, companies.
+* [Selvaklnc @ Metaculus](https://www.metaculus.com/accounts/profile/211668/) - Questions, tournaments, leaderboards and more.
+* [Selvakumaran Krishnan @ Pinterest](https://in.pinterest.com/selvaklnc) - Insightful boards.
+* [Selvakumaran @ HubPages](https://hubpages.com/@selvakumarank) profile.
 * [Selva @ Instagram](https://www.instagram.com/ourmasterks)
 * [Selvakumaran Krishnan @ MOZ](https://moz.com/community/q/user/selvakumaran)
 * [Crunchbase profile of Selvakumaran Krishnan](https://www.crunchbase.com/person/selvakumaran-krishnan-20e4) with developer profile.
@@ -65,6 +77,21 @@ Interesting topics on all subjects:
 
 ## List of articles and posts
 
+* Master SEO with the Complete [SEO Growth Blueprint](https://www.linkedin.com/pulse/master-seo-complete-growth-blueprint-series-selvakumaran-krishnan-ikx1c) Series.
+* The Importance of [Cryptographic Standards in Modern Security](https://www.linkedin.com/pulse/importance-cryptographic-standards-modern-security-krishnan-yfsgc).
+* The Human Factor: [Building a Cyber-Aware Culture in Organizations](https://www.linkedin.com/pulse/human-factor-building-cyber-aware-culture-selvakumaran-krishnan-mbrzc)
+* [Google algorithm updates](https://medium.com/@selvakumarankrishnan/google-algorithm-updates-a-comprehensive-study-of-how-google-algorithm-updates-shape-online-seo-b509b320bf0d) | A comprehensive study of how Google algorithm updates shape online SEO impacts
+* [Social Engineering Hacks](https://www.linkedin.com/pulse/social-engineering-hacks-how-manipulation-techniques-your-krishnan-usnec): How Manipulation Techniques Threaten Your Security and How to Protect Yourself
+* [Online magazines and their allure](https://medium.com/@selvakumarankrishnan/online-magazines-and-their-allure-embrace-the-digital-eleganceonline-magazines-and-their-allure-1054f786a227): Embrace the digital elegance
+* [Brute Force Attacks](https://www.linkedin.com/pulse/brute-force-attacks-prevention-mitigation-selvakumaran-krishnan-5b5pc) | Prevention and Mitigation
+* The art of [finding peace in aloneness](https://medium.com/@selvakumarankrishnan/the-art-of-finding-peace-in-aloneness-0a1f14bc3168).
+* Exploring [Generative AI in Cybersecurity](https://www.linkedin.com/pulse/exploring-generative-ai-cybersecurity-new-chapter-krishnan-istmc): A New Chapter.
+* The Ongoing Debate: [Online vs. Offline Businesses](https://medium.com/@selvakumarankrishnan/the-ongoing-debate-online-vs-offline-businesses-e63b46594960) 
+* [Profitable Online Business Ideas for 2024](https://sites.google.com/view/vibe-reads/articles-profitable-online-business-ideas) – Kickstart Your Digital Venture
+* [Best Online Business Ideas & Passive Income Opportunities](https://ourmaster.wordpress.com/2024/10/19/best-online-business-ideas-passive-income-opportunities-for-2024/) for 2024
+* 30 Best [Articles Guiding to Profitable Online Business](https://top-list-reads.blogspot.com/2024/10/online-business-idea-collection.html) Ideas in 2024
+* 12 key [SEO metrics and ranking factors](https://developer.wikimint.com/2024/09/important-seo-metrics-websites.html) to boost your website SEO.
+* [Online Business](https://ext-6630128.livejournal.com/495.html): A Path to Financial Freedom
 * How wmWebStack Simplifies [Local Web Development](https://moneymakingstrategies1.wordpress.com/2024/09/18/how-wmwebstack-simplifies-local-web-development/)
 * wmWebStack: The Best [Free Server Software for Windows](https://tan7078.livepositively.com/wmwebstack-the-best-free-server-software-for-windows-developers/) for web developrs.
 * The Benefits of Using [wmWebStack as Your Localhost Server](https://www.timessquarereporter.com/technology/the-benefits-of-using-wmwebstack-as-your-localhost-server)
@@ -160,6 +187,7 @@ Interesting topics on all subjects:
 
 ## List of company profiles
 
+* [Wikimint @ Pinterest](https://in.pinterest.com/selvaklnc/wikimint/) insightful board.
 * [Wikimint @ Issuu](https://issuu.com/wikimint) with recent publications.
 * [Wikimint @ Trustpilot](https://www.trustpilot.com/review/wikimint.com) reviews.
 * [Wikimint @ YouTube](https://www.youtube.com/c/wikimint) publishing videos on various topics.
@@ -172,6 +200,7 @@ Interesting topics on all subjects:
 
 ## List of blogs and websites
 
+* Official website of [Selvakumaran Krishnan](https://sk.wikimint.com/selvakumaran-krishnan)
 * [Localhost server stack](https://webstack.wikimint.com) - wmWebStack: A lightweight, customizable server package designed for web development. Featuring essential tools like PHP, MySQL, and Apache, wmWebStack empowers developers to create, test, and secure their web projects effortlessly.
 * [Selvakumaran Krishnan](https://selvakumaran.is-a.dev/) - CV of Selvakumaran Krishnan, Software Engineer, Front-End developer, SEO, Digital marketer.
 * [Selvakumaran Krishnan Strikingly](https://ourmaster.mystrikingly.com/) - Personal profile at Strikingly
@@ -199,9 +228,20 @@ Interesting topics on all subjects:
 * [Lasso bookmarks](https://www.lasso.net/go/link/0f9ICl) to store important web collections.
 * [Case converter](https://www.linkedin.com/feed/update/urn:li:activity:7195453146377166848) - Transform your text effortlessly with our advanced Case Converter tool
 * [Symbaloo bookmarks](https://www.symbaloo.com/mix/selvaklnc) by Selvakumaran Krishnan  
+* [Bio link profile](https://bio.link/ourmaster) Selvakumaran.
 
 ## Others
 
+* Wikimint Establishment. [Wikimint was officially founded on October 24, 2018](https://docs.google.com/drawings/d/e/2PACX-1vTker5nqrt6BzVlX9YQI6HIH5hpx9PGTyXqntm328KhnLZX-AtxWzc5klxxeNSiZxVaZWQNJAtgZAI2/pub?w=960&h=720), with the goal of delivering insightful content on business and technology. Since its inception, it has grown into a trusted platform for entrepreneurs and tech enthusiasts alike.
+* [Innovative Online Business Ideas](https://docs.google.com/document/d/1xATY7QnKLtoHBf-3w74WJdRQCtugOeqB_Tkm8zxOswo/edit?usp=sharing): Unleashing Your Entrepreneurial Spirit. Explore a variety of [creative online business opportunities](https://docs.google.com/document/d/e/2PACX-1vSUid822oiv_o6nZu5Zkk_RyI6J0XU1TBe4Y56T_yKxcWZ3RFpX6KrscFNC0FshQw8SM84sXcTmHWFt/pub) that can help ignite your entrepreneurial potential and guide you toward success.
+* [Wikimint Location on Google Maps](https://www.google.com/maps/d/edit?mid=1w2U-F5RoZoZi_RpABQDgskcfzMypq64&usp=sharing). Approximate location of the Wikimint online publishing platform, showcasing its presence in the digital landscape. Explore the map to get a visual representation of where Wikimint operates and connects with its audience.
+* [Wikimint Logo Overview](https://docs.google.com/drawings/d/1yjCJ-DtXU3-SdpnmCO-4xekTMcy7z-A6t0brFIla5XY/edit?usp=sharing). The Wikimint logo features a clean, modern design accompanied by the tagline, encapsulating its focus on business and technology updates. [The logo represents the brand's identity and vision](https://docs.google.com/drawings/d/e/2PACX-1vTker5nqrt6BzVlX9YQI6HIH5hpx9PGTyXqntm328KhnLZX-AtxWzc5klxxeNSiZxVaZWQNJAtgZAI2/pub?w=960&h=720), making it recognizable across platforms.
+* [Survey on Emerging Online Business](https://forms.gle/snnnhkxJbp9yZB8n6) Trends. This poll delves into the latest developments and cutting-edge technologies [shaping the future of online business](https://docs.google.com/forms/d/e/1FAIpQLScL82ssHd2OuDrDKs3H2IWAjTLS3qINf7pA9FTwCHTEqYFKNA/viewform?usp=sf_link), offering insights into the direction of digital entrepreneurship.
+* [Page version of Wikimint](https://docs.google.com/spreadsheets/d/1i_HggFUERkDxjFHyuAS13Ooz-CvAd2pd/edit?usp=sharing&ouid=107369331720316719651&rtpof=true&sd=true) documentary pages.
+* [Wikimint documentary](https://docs.google.com/spreadsheets/d/1i_HggFUERkDxjFHyuAS13Ooz-CvAd2pd/edit?usp=sharing&ouid=107369331720316719651&rtpof=true&sd=true) page.
+* [Important pages of Selvaklnc](http://www.geocities.ws/ourmaster/important-user-pages-selvaklnc.html) in Ourmaster Geocity.
+* [Important pages](https://www.geocities.ws/ourmaster/important-pages.html) of Ourmaster.
+* [Ourmaster @ Geocities](https://www.geocities.ws/ourmaster/) WS.
 * [wmWebStacl localhost server](https://alternativeto.net/software/wmwebstack/about/)
 * [wmWebStack alternatives](https://alternativeto.net/software/wmwebstack/) Web Servers and other similar apps like wmWebStack.
 * [Wikimint from YouTube](https://www.youtube.com/redirect?q=https://www.wikimint.com/p/about.html)
@@ -215,3 +255,21 @@ Interesting topics on all subjects:
 * [Search Wikimint](https://yandex.com.tr/search/?text=wikimint.com) on Yandex.
 * [Top list reads](https://yandex.com.tr/search/?text=top-list-reads.blogspot.com) listicle blog on Yandex.
 * [Search Ourmaster](https://yandex.com.tr/search/?text=ourmaster.wordpress.com) on Yandex.
+
+## Responses
+
+* [Museums](https://blog.u-s-history.com/2011/07/museums-of-richmond-virginia.html?commentPage=4) of Richmond Virginia
+* American History through American Art at the [Metropolitan Museum of Art](https://blog.u-s-history.com/2012/03/image-credit-museum-of-art-if-youre-in.html?commentPage=2)
+* [World Celebrates 50th Anniversary of Earth Day](https://blog.u-s-history.com/2020/04/world-celebrates-50th-anniversary-of.html?commentPage=2) - The History Behind The Holiday
+* Florida History: [Everglades](https://blog.u-s-history.com/2020/04/florida-history-everglades.html?commentPage=2)
+* [Oregon History and Westward Migration](https://blog.u-s-history.com/2020/05/oregon-history-and-westward-migration.html?commentPage=2) - The Beginnings
+* Breaking the Bread: [A Brief History of Sourdough](https://blog.u-s-history.com/2020/05/breaking-bread-brief-history-of.html?commentPage=3)
+* Office of [International Programs](http://international.lander.edu/asia-summer/april-27-2013)
+* Guiding the [growth and development of over 24 brands](https://www.bu.edu/bhr/2024/09/24/nurturing-24-brands-allowing-them-to-evolve-mature-and-even-rocket-into-space/#comment-130011), helping them not only evolve and mature but also reach extraordinary heights, even beyond expectations.
+* [Too many spider man](https://sites.northwestern.edu/situationcritical/2016/10/25/too-many-spider-men/comment-page-112/#comment-329717)
+* [Profound and positive impact](https://blogs.uoregon.edu/myneighbor/2014/04/08/myneighbor/#comment-67) explore new opportunities.
+* [Blog review #1](https://blogs.uoregon.edu/myneighbor/blog-review-1/#comment-66)
+* [Eco-Culture Research](http://crpgsa.unm.edu/2008/12/eco-culture-research-gallery.html) Gallery Presentation.
+* Local [Food Rebuilds Small Town](http://crpgsa.unm.edu/2008/10/local-food-rebuilds-small-town-and.html) (And Inner-City) America.
+* [Lou test](http://natetaris.wheatoncollege.edu/2015/12/blog-post_10.html) blog
+* NM [Environmental Policy Initiatives](http://crpgsa.unm.edu/2008/12/nm-environmental-policy-initiatives.html) Lecture
