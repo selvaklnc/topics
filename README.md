@@ -75,7 +75,17 @@ Interesting topics on all subjects:
 * [Selvakumaran Krishnan @ Slideshare](https://www.slideshare.net/SELVAKUMARANK1) - publishing slide posts.
 
 ## List of articles and posts
- 
+
+* Master SEO with the Complete [SEO Growth Blueprint](https://www.linkedin.com/pulse/master-seo-complete-growth-blueprint-series-selvakumaran-krishnan-ikx1c) Series.
+* The Importance of [Cryptographic Standards in Modern Security](https://www.linkedin.com/pulse/importance-cryptographic-standards-modern-security-krishnan-yfsgc).
+* The Human Factor: [Building a Cyber-Aware Culture in Organizations](https://www.linkedin.com/pulse/human-factor-building-cyber-aware-culture-selvakumaran-krishnan-mbrzc)
+* [Google algorithm updates](https://medium.com/@selvakumarankrishnan/google-algorithm-updates-a-comprehensive-study-of-how-google-algorithm-updates-shape-online-seo-b509b320bf0d) | A comprehensive study of how Google algorithm updates shape online SEO impacts
+* [Social Engineering Hacks](https://www.linkedin.com/pulse/social-engineering-hacks-how-manipulation-techniques-your-krishnan-usnec): How Manipulation Techniques Threaten Your Security and How to Protect Yourself
+* [Online magazines and their allure](https://medium.com/@selvakumarankrishnan/online-magazines-and-their-allure-embrace-the-digital-eleganceonline-magazines-and-their-allure-1054f786a227): Embrace the digital elegance
+* [Brute Force Attacks](https://www.linkedin.com/pulse/brute-force-attacks-prevention-mitigation-selvakumaran-krishnan-5b5pc) | Prevention and Mitigation
+* The art of [finding peace in aloneness](https://medium.com/@selvakumarankrishnan/the-art-of-finding-peace-in-aloneness-0a1f14bc3168).
+* Exploring [Generative AI in Cybersecurity](https://www.linkedin.com/pulse/exploring-generative-ai-cybersecurity-new-chapter-krishnan-istmc): A New Chapter.
+* The Ongoing Debate: [Online vs. Offline Businesses](https://medium.com/@selvakumarankrishnan/the-ongoing-debate-online-vs-offline-businesses-e63b46594960) 
 * [Profitable Online Business Ideas for 2024](https://sites.google.com/view/vibe-reads/articles-profitable-online-business-ideas) – Kickstart Your Digital Venture
 * [Best Online Business Ideas & Passive Income Opportunities](https://ourmaster.wordpress.com/2024/10/19/best-online-business-ideas-passive-income-opportunities-for-2024/) for 2024
 * 30 Best [Articles Guiding to Profitable Online Business](https://top-list-reads.blogspot.com/2024/10/online-business-idea-collection.html) Ideas in 2024
